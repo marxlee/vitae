@@ -3,7 +3,7 @@
 ## 个人信息
 
 |  身份信息  |  Marx  | 
-| ---- |  :--: | 
+| :--- |  :--: | 
 | 工作城市  | 北京 |
 | 出生日期 | 1991年 |
 | 个人Blog |[lorisy.com](http://lorisy.com/blog/html/index.html)|
