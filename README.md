@@ -6,7 +6,9 @@
 | ---- |  :--: | 
 | 工作城市  | 北京 |
 | 出生日期 | 1991年 |
-| 个人邮箱 |manmarx92@163.com |
+| 个人Blog |[lorisy.com](http://lorisy.com/blog/html/index.html)|
+| E-mail |manmarx92@163.com |
+
 
 ## 求职意向
 
