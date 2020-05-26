@@ -6,7 +6,7 @@
 | :--- |  :--: | 
 | 工作城市  | 北京 |
 | 出生日期 | 1991年 |
-| 个人Blog |[marxy.com.cn](http://marxy.com.cn/blog/html/index.html)|
+| 个人Blog |[marxy.com.cn](http://marxy.com.cn)|
 | E-mail |manmarx92@163.com |
 
 
