@@ -26,6 +26,10 @@
 
 云服务器: Linux
 
+Go:
+WEB开发:Web, Redis, Mysql
+以太坊项目开发:
+
 Java:
 数据处理: Hadoop, Spark, Kafka, Hbase, Hive
 开源框架: Spring, Dubbo, RocketMQ
